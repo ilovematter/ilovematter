@@ -1,4 +1,4 @@
-Hi, I’m @ilovematter
+Hi, I’m @ilovematter.
 I’m interested in chemistry, physics, materials science, and computational tools. My long-term goal is to create molecular dynamics simulations.
 I’m currently learning Julia for computational science and data visualization.
 
