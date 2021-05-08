@@ -1,6 +1,6 @@
-👋 Hi, I’m @ilovematter
-👀 I’m interested in chemistry, physics, materials science, and computational tools
-🌱 I’m currently learning C++ for computational science and Python/Matplotlib for visualization
+Hi, I’m @ilovematter
+I’m interested in chemistry, physics, materials science, and computational tools. My long-term goal is to create molecular dynamics simulations.
+I’m currently learning Julia for computational science and data visualization.
 
 <!---
 ilovematter/ilovematter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
